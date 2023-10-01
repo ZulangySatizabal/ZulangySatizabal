@@ -2,9 +2,11 @@
 
 # ¡I'm Zulangy Satizabal! 🐼
 
-Soy una apasionada desarrolladora web 👩‍💻
+Soy una apasionada desarrolladora web frontEnd 👩‍💻
 
-Recientemente me gradué de Tecnología en Sistemas de Información en la Universidad del Valle (Colombia). He hecho parte del programa de formación de Oracle junto con Alura LATAM, llamado Oacle ONE. Y siempre estoy tratando de mejorar mis habilidades. Me encanta crear soluciones creativas y funcionales para problemas en la web y hacer sitios esteticamente bonitos y funcionales en gran medida para el usuario.
+Echale un ojo a mi [Portafolio](https://zulangysatizabal.github.io/MiPortafolio/) 📌
+
+Recientemente me gradué de Tecnología en Sistemas de Información en la Universidad del Valle (Colombia). He hecho parte del programa de formación de Oracle junto con Alura LATAM, llamado Oacle ONE. Y siempre estoy tratando de mejorar mis habilidades. Me encanta darle vida a la web y crear soluciones creativas y funcionales para problemas en la web y hacer sitios bonitos y funcionales en gran medida para el usuario.
 
 ## Proyecto Destacado
 
@@ -22,7 +24,7 @@ Poco a poco voy aprendiendo y mejorando!
 
 ## Contacto
 
-Si tienes alguna pregunta, sugerencia o simplemente quieres decir hola, no dudes en contactarme. Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/zulangy-satizabal/).
+Si tienes alguna pregunta, sugerencia o simplemente quieres decir hola, o darme trabajo, no dudes en contactarme. Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/zulangy-satizabal/) o en [Twiter](https://twitter.com/ZulangySati), (ahora X).
 
 ¡Gracias por visitar mi perfil de GitHub!
 
