@@ -4,13 +4,15 @@
 
 Soy una apasionada desarrolladora web frontEnd 👩‍💻
 
-Echale un ojo a mi [Portafolio](https://zulangysatizabal.github.io/MiPortafolio/) 📌
+<!--Echale un ojo a mi [Portafolio](https://zulangysatizabal.github.io/MiPortafolio/) 📌-->
 
 Recientemente me gradué de Tecnología en Sistemas de Información en la Universidad del Valle (Colombia). He hecho parte del programa de formación de Oracle junto con Alura LATAM, llamado Oacle ONE. Y siempre estoy tratando de mejorar mis habilidades. Me encanta darle vida a la web y crear soluciones creativas y funcionales para problemas en la web y hacer sitios bonitos y funcionales en gran medida para el usuario.
 
 ## Proyecto Destacado
 
 Mi primera página subida en GitHub Pages es un encriptador de texto que puedes encontrar [aquí](https://zulangysatizabal.github.io/Encriptador-de-Texto/). ¡Me encantaría que le echaras un vistazo! 😊
+
+Mira mi primer aplicación de React publicada en GitHub Pages, una sencilla pero muy bonita [calculadora](https://zulangysatizabal.github.io/calculadora-interactiva/)! Echale un vistazo 😉
 
 Poco a poco voy aprendiendo y mejorando!
 
@@ -20,7 +22,7 @@ Poco a poco voy aprendiendo y mejorando!
 - CSS
 - JavaScript
 - React
-- Git
+- Git/GitHub
 
 ## Contacto
 
